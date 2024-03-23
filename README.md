@@ -27,22 +27,27 @@
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
 - 💬 My research interests and focus areas include: Natural Language Processing (NLP), Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
-- I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
+- 👋 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
+- 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake.svg">
-</picture>
 
-  
+# 🌼 Open source experience
+- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM): EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions. 
+- [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn): Implement a Chinese version of the Large Language Model (LLM).
+- [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/): Teaching Assistant
+- …
+
+# 🏆 Honors
+- High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
+- EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
+- Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
+- …
 
 #  🤗 GitHub Stats 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aJupyter&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
-
 
 
 
