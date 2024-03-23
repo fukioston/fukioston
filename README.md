@@ -22,42 +22,30 @@
     <img src="https://komarev.com/ghpvc/?username=aJupyter&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
   
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aJupyter/aJupyter/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aJupyter/aJupyter/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aJupyter/aJupyter/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
 </div>
 
-#  🙋 Hello
+#   👨‍🎓 About Me
+- 👋 大家好，我是小王同学，NKU在读研究生。
+- 💬 研究方向：NLP、LLM。
+- CSDN人工智能领域优质创作者。
 
-<table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aJupyter/aJupyter/output/github-contribution-grid-snake.svg">
+</picture>
+
   
-<tr><td>
 
-### 🤺 About Me
+#  🤗 GitHub Stats 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aJupyter&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/aJupyter/aJupyter/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，我是小王同学。</p>
-<p>&emsp;&emsp;热爱编程、跑步、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
 
-<tr><td>
-  
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aJupyter&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aJupyter" /> </div>
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aJupyter&theme=github" /> </div>
 
 
 
