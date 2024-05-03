@@ -27,14 +27,22 @@
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
 - 💬 My research interests and focus areas include: Natural Language Processing (NLP), Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
-- 👋 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
+- 📖 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
 
 
 # 🌼 Open source experience
-- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM): EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions. 
-- [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn): Implement a Chinese version of the Large Language Model (LLM).
-- [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/): Teaching Assistant
+## As a sponsor
+- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM): EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions.
+- [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper): This repository contains papers related to all kinds of LLMs.
+- [NLP2Hero](https://github.com/aJupyter/NLP2Hero): A quality repository for collecting NLP-related materials.
+- …
+
+
+## As a member
+- [Tianji](https://github.com/SocialAI-tianji/Tianji) | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. 
+- [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn) | Preparation of part of the content: Implement a Chinese version of the Large Language Model (LLM).
+- [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/) | Two periods of teaching assistants: Teaching Assistant
 - …
 
 # 🏆 Honors
@@ -48,10 +56,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aJupyter&show_icons=true&theme=light" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
-
-
-
-
-
-
-
