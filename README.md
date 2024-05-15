@@ -49,6 +49,7 @@
 - High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
 - EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
 - Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
+- Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
 - …
 
 #  🤗 GitHub Stats 
