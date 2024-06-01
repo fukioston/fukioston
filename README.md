@@ -19,9 +19,9 @@
     <a href="https://www.zhihu.com/people/grit-35-86"><img src="https://img.shields.io/badge/Zhihu-Zhihu-blue" /></a>&emsp;
     <a href="https://www.yuque.com/ajupyter"><img src="https://img.shields.io/badge/yuque-Yuque-green" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=aJupyter&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=aJupyter&label=Views&color=0e75b6&style=flat" alt="访问量统计" />-->
   </div>
-   -->
+   
 </div>
 
 #   👨‍🎓 About Me
