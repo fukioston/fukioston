@@ -33,6 +33,6 @@
 
 #  🤗 GitHub Stats 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aJupyter&show_icons=true&theme=light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJupyter&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Fukioston&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fukioston&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
