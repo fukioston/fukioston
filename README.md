@@ -13,16 +13,7 @@
   <div>&nbsp;</div>
   
   <!-- profile logo 个人资料徽标 -->
-<!--  <div>
-    <a href="https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Website-BLOG-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/474355405?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-Bilibili-ff69b4" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/grit-35-86"><img src="https://img.shields.io/badge/Zhihu-Zhihu-blue" /></a>&emsp;
-    <a href="https://www.yuque.com/ajupyter"><img src="https://img.shields.io/badge/yuque-Yuque-green" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=aJupyter&label=Views&color=0e75b6&style=flat" alt="访问量统计" />-->
-  </div>
-   
-</div>
+
 
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a undergraduate student currently studying at Nankai University(NKU).
