@@ -25,9 +25,8 @@
 </div>
 
 #   👨‍🎓 About Me
-- 👋 Hello everyone, I am a graduate student currently studying at Nankai University(NKU).
+- 👋 Hello everyone, I am a undergraduate student currently studying at Nankai University(NKU).
 - 💬 My research interests and focus areas include: Natural Language Processing (NLP), Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
-- 📖 I am a high-quality content creator in the field of Artificial Intelligence on CSDN (China Software Developer Network).
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
 
 
