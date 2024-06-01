@@ -31,27 +31,6 @@
 - 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
 
 
-# 🌼 Open source experience
-## As a sponsor
-- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM): EmoLLM is a series of large language models designed to understand, support and help customers in mental health counseling. It is fine-tuned from the LLM instructions.
-- [Awesome-LLM-paper](https://github.com/aJupyter/Awesome-LLM-paper): This repository contains papers related to all kinds of LLMs.
-- [NLP2Hero](https://github.com/aJupyter/NLP2Hero): A quality repository for collecting NLP-related materials.
-- …
-
-
-## As a member
-- [Tianji](https://github.com/SocialAI-tianji/Tianji) | Fine-tuning LLM: Tianji is a free, non-commercial artificial intelligence system. You can utilize it for tasks involving worldly wisdom, such as "art of conversation," to enhance your emotional intelligence and core competitiveness. 
-- [LLMs From Scratch: Hands-on Building Your Own Large Language Models](https://github.com/datawhalechina/llms-from-scratch-cn) | Preparation of part of the content: Implement a Chinese version of the Large Language Model (LLM).
-- [Shusheng·Puyu Large Model Practical Camp](https://github.com/InternLM/tutorial/) | Two periods of teaching assistants: Teaching Assistant
-- …
-
-# 🏆 Honors
-- High-quality content creator in the field of Artificial Intelligence on [CSDN](https://blog.csdn.net/qq_49821869?spm=1000.2115.3001.5343).
-- EmoLLM，Achieved Top 15 in the Shusheng·Puyu Large Model Challenge (Spring Season), winning the Creative Application Award.
-- Master's recommended-exempt student, outstanding undergraduate graduate, and ranked 1st out of 69 in major.
-- Shusheng·Puyu Large Model Practical Camp: Excellent campers, excellent teaching assistants (class size 55 in total)
-- …
-
 #  🤗 GitHub Stats 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aJupyter&show_icons=true&theme=light" />
