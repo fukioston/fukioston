@@ -17,9 +17,8 @@
 
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a undergraduate student currently studying at Nankai University(NKU).
-- 💬 My research interests and focus areas include: Natural Language Processing (NLP), Large Language Models (LLM), and Retrieval-Augmented Generation (RAG).
-- 🪁 Hobbies and interests: Running, playing badminton, taking walks, watching movies.
-
+- 💬 My research interests and focus areas include: 
+- 🪁 Hobbies and interests: 
 
 #  🤗 GitHub Stats 
 <div>
