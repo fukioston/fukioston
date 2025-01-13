@@ -18,7 +18,7 @@
 #   👨‍🎓 About Me
 - 👋 Hello everyone, I am a undergraduate student currently studying at Nankai University(NKU).
 - 💬 My research interests and focus areas include: 
-- 🪁 Hobbies and interests: 
+- 🪁 My favorite singer: Lala Hsu
 
 #  🤗 GitHub Stats 
 <div>
